@@ -17,7 +17,7 @@ public class Desafio {
                 \n** Digite sua opção **
                 1 - Consultar saldo
                 2 - Sacar valor
-                3 - Depositar valor
+                3   Depositar valor
                 4 - Sair
                 **********************
                 """;
